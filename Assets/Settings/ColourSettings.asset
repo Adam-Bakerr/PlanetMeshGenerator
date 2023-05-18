@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 616c4e24e3b9c7b41872b3c8076fdad3, type: 3}
+  m_Name: ColourSettings
+  m_EditorClassIdentifier: 
+  Colors:
+  - name: Water
+    height: 0
+    color: {r: 0.09925235, g: 0.40491346, b: 0.6415094, a: 0}
+  - name: Sand
+    height: 1.01
+    color: {r: 0.49056602, g: 0.38449466, b: 0, a: 0}
+  - name: Grass
+    height: 1.03
+    color: {r: 0.12952203, g: 0.3773585, b: 0, a: 0}
+  - name: Peaks
+    height: 1.08
+    color: {r: 0.6509434, g: 0.6509434, b: 0.6509434, a: 0}
